@@ -43,15 +43,15 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 杜若禹 整理�
 * 医学信息学去除jieba
 	* 词表简介：本词表包含了大量医学信息学专业词汇！没有与jieba词重复部分了！！
 	* 词条样例：医院信息安全, 医疗信息化，电子健康，医学信息学,区块链，2型糖尿病。
-	* 词条数量：26714条
+	* 词条数量：26697条
 	* 更新时间：2025-04-14
 	* 贡献者：杜若禹
 	* 下载链接：[点此下载](https://github.com/SXMU-MedicineInformation/SXMUOCL/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%8E%BB%E9%99%A4jieba.txt)
 
- * 医学信息学jieba3881
+ * 医学信息学jieba3883
    	* 词表简介：本词表包含了医学信息学在jieba词典中的3881条数据
 	* 词条样例：鼻窦炎，原癌基因，B超，三明市，万古霉素，上海市。
-	* 词条数量：3881条
+	* 词条数量：3883条
 	* 更新时间：2025-04-14
 	* 贡献者：杜若禹
 	* 下载链接：[点此下载](https://github.com/SXMU-MedicineInformation/SXMUOCL/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3881)
