@@ -12,7 +12,7 @@
 
 ## 词库简介
 
-SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 杜若禹 整理推出的一套高质量的中文词库。SXMUOCL具有以下特点：
+SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 管理学院 杜若禹 整理推出的一套高质量的中文词库。SXMUOCL具有以下特点：
 
 1. 词库经过多轮人工筛选，保证词库收录的准确性。
 
@@ -43,7 +43,7 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 杜若禹 整理�
 * 医学信息学去除jieba
 	* 词表简介：本词表包含了大量医学信息学专业词汇！没有与jieba词重复部分了！！
 	* 词条样例：医院信息安全, 医疗信息化，电子健康，医学信息学,区块链，2型糖尿病。
-	* 词条数量：26693条
+	* 词条数量：26695条
 	* 更新时间：2025-04-14
 	* 贡献者：杜若禹
 	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%8E%BB%E9%99%A4jieba)
