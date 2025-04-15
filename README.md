@@ -76,4 +76,4 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 管理学院 杜�
 
 贡献者： Ruoyu Du（杜若禹，山西医科大学本科生）.
 
-指导老师： [Yangfang Tai]( 邰杨芳-山西医科大学管理学院)（邰杨芳，山西医科大学教授）.
+指导老师： [Yangfang Tai]( https://www.sxmu.edu.cn/gl/info/1064/2644.htm)（邰杨芳，山西医科大学教授）.
