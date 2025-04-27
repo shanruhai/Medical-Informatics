@@ -45,7 +45,7 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 管理学院 杜�
 	* 词条数量：30578条
 	* 更新时间：2025-04-13
 	* 贡献者：杜若禹
-	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8)
+	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8)[![点击]（https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8.svg?extraCount=1）]（https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8/）
 
 * 医学信息学去除jieba
 	* 词表简介：本词表包含了大量医学信息学专业词汇！没有与jieba词重复部分了！！
