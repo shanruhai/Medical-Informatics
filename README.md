@@ -64,8 +64,8 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 管理学院 杜�
 	* 词条数量：3883条
 	* 更新时间：2025-04-14
 	* 贡献者：杜若禹
-	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883) 
-[![Hits](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883.svg)](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883)
+	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883)
+   
 
 
 ## 开源协议	
