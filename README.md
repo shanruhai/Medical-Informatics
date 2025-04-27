@@ -1,4 +1,5 @@
-# Medical-Informatics [![查看]（https://hits.sh/github.com/shanruhai/Medical-Informatics.svg）]（https://hits.sh/github.com/shanruhai/Medical-Informatics/）
+# Medical-Informatics  [![Hits](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8.svg)](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8)
+
 杜若禹的医学信息学词典（目前我的毕业论文的一点成果）
 
 这个词典真的好难筛选，如有许多地名，比如三明、福建等，涉及到医疗改革，应予以保留；医院信息系统是医学信息学的一个分支，导致如人力资源系统,办公自动化等也需要包含在内...
@@ -64,7 +65,7 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 管理学院 杜�
 	* 更新时间：2025-04-14
 	* 贡献者：杜若禹
 	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883) 
-
+[![Hits](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883.svg)](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883)
 
 
 ## 开源协议	
