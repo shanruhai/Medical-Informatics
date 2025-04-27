@@ -45,7 +45,7 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 管理学院 杜�
 	* 词条数量：30578条
 	* 更新时间：2025-04-13
 	* 贡献者：杜若禹
-	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8)  [![下载次数](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/医学信息学词典.svg?extraCount=1)](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/医学信息学词典)
+	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8)
 
    
 * 医学信息学去除jieba
@@ -54,16 +54,16 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 管理学院 杜�
 	* 词条数量：26695条
 	* 更新时间：2025-04-14
 	* 贡献者：杜若禹
-	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%8E%BB%E9%99%A4jieba) [![下载次数](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%8E%BB%E9%99%A4jieba.svg?extraCount=1)](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%8E%BB%E9%99%A4jieba)
+	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%8E%BB%E9%99%A4jieba)
 
-
+   
  * 医学信息学jieba3883
    	* 词表简介：本词表包含了医学信息学在jieba词典中的3883条数据
 	* 词条样例：鼻窦炎，原癌基因，B超，三明市，万古霉素，上海市，三明，三明市。
 	* 词条数量：3883条
 	* 更新时间：2025-04-14
 	* 贡献者：杜若禹
-	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883)     [![下载次数](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883.svg?extraCount=1)](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883/)
+	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883) 
 
 
 
