@@ -1,4 +1,4 @@
-# Medical-Informatics
+# Medical-Informatics [![查看]（https://hits.sh/github.com/shanruhai/Medical-Informatics.svg）]（https://hits.sh/github.com/shanruhai/Medical-Informatics/）
 杜若禹的医学信息学词典（目前我的毕业论文的一点成果）
 
 这个词典真的好难筛选，如有许多地名，比如三明、福建等，涉及到医疗改革，应予以保留；医院信息系统是医学信息学的一个分支，导致如人力资源系统,办公自动化等也需要包含在内...
@@ -59,7 +59,7 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 管理学院 杜�
    
  * 医学信息学jieba3883
    	* 词表简介：本词表包含了医学信息学在jieba词典中的3883条数据
-	* 词条样例：鼻窦炎，原癌基因，B超，三明市，万古霉素，上海市，三明，三明市。
+	* 词条样例：鼻窦炎，原癌基因，B超，万古霉素，上海市，三明，三明市。
 	* 词条数量：3883条
 	* 更新时间：2025-04-14
 	* 贡献者：杜若禹
