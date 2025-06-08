@@ -1,6 +1,7 @@
 # Medical-Informatics  [![Hits](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8.svg)](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8)
 
 杜若禹的医学信息学词典（目前我的毕业论文的一点成果）
+我开发了一个数据收集软件，可批量获取论文相关数据，有数据需求可以联系。
 
 这个词典真的好难筛选，如有许多地名，比如三明、福建等，涉及到医疗改革，应予以保留；医院信息系统是医学信息学的一个分支，导致如人力资源系统,办公自动化等也需要包含在内...
 
