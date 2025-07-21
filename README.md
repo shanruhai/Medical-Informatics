@@ -1,7 +1,9 @@
 # Medical-Informatics  [![Hits](https://hits.sh/github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8.svg)](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AF%8D%E5%85%B8)
 
-杜若禹的医学信息学词典（目前我的毕业论文的一点成果）
-我开发了一个数据收集软件，可批量获取论文相关数据，有数据需求可以联系。
+* 杜若禹的医学信息学词典（目前我的毕业论文的一点成果）
+* 我们团队助力成果保护，已成立公司，进行各类软著、专著代理申请，软著45个工作日下证！专著一个月下证！可开发票！欢迎大家咨询联系。联系方式：duruoyu@sxmu.edu.cn
+<img width="482" height="661" alt="屏幕截图 2025-07-22 021456" src="https://github.com/user-attachments/assets/82b665d4-44b7-4c61-b9ed-e79b2686f677" />
+<img width="488" height="666" alt="屏幕截图 2025-07-22 021502" src="https://github.com/user-attachments/assets/a32f16a5-2860-43d1-ba2c-0dfef82c4510" />
 
 这个词典真的好难筛选，如有许多地名，比如三明、福建等，涉及到医疗改革，应予以保留；医院信息系统是医学信息学的一个分支，导致如人力资源系统,办公自动化等也需要包含在内...
 
@@ -64,15 +66,17 @@ SXMUOCL（SXMU Open Chinese Lexicon）是由山西医科大学 管理学院 杜�
 	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%8E%BB%E9%99%A4jieba)
 
    
- * 医学信息学jieba3883
+* 医学信息学jieba3883
    	* 词表简介：本词表包含了医学信息学在jieba词典中的3883条数据
 	* 词条样例：鼻窦炎，原癌基因，B超，万古霉素，上海市，三明，三明市。
 	* 词条数量：3909条
 	* 更新时间：2025-04-14
 	* 贡献者：杜若禹
 	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6jieba3883)
-   
 
+* 医学信息学杂志
+	* 简介：这是我的部分原始数据，公开供大家使用验证。
+   	* 下载链接：[点此下载](https://github.com/shanruhai/Medical-Informatics/blob/main/%E5%8C%BB%E5%AD%A6%E4%BF%A1%E6%81%AF%E5%AD%A6%E6%9D%82%E5%BF%97.csv)
 
 ## 开源协议	
 
